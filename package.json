@@ -1,0 +1,23 @@
+{
+  "name": "math-toolsuite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "toolsuite": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha e2e/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeus1999/math-toolsuite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeus1999/math-toolsuite/issues"
+  },
+  "homepage": "https://github.com/zeus1999/math-toolsuite#readme"
+}
